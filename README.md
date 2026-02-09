@@ -1,4 +1,4 @@
-site LINK -----  https://main--filmyverse-by-abj.netlify.app/
+site LINK -----  https://main--filmySpot-by-kd.netlify.app/
 
 # Getting Started with Create React App
 
